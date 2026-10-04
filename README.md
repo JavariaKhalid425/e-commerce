@@ -3,8 +3,8 @@
 VELORA is a clean, modern, dark-themed e-commerce storefront built as a **React frontend practice project**. The main goal of this application is to demonstrate clean UI component engineering, client-side dynamic routing, and temporary state management without a heavy database backend.
 
 ## 🔗 Project Links
-* **Live Production Deployment:** [Live Link](https://velora-luxury-shop.netlify.app/) *(Replace with your exact Netlify URL)*
-* **Source Code Repository:** [GitHub Repository](https://github.com/JavariaKhalid425/e-commerce) *(Replace with your exact GitHub URL)*
+* **Live Production Deployment:** [Live Link](https://velora-luxury-shop.netlify.app/) 
+* **Source Code Repository:** [GitHub Repository](https://github.com/JavariaKhalid425/e-commerce) 
 
 ---
 
